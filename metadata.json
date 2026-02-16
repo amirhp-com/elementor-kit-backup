@@ -1,0 +1,6 @@
+{
+  "name": "Elementor Kit Backup Manager",
+  "description": "Professional manager for Elementor Global Kit settings with detailed inspection, history, bundle import/export, and Elementor integration.",
+  "version": "1.9.1",
+  "requestFramePermissions": []
+}

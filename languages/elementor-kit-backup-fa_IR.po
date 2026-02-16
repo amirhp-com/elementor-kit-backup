@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elementor Kit Backup Manager\n"
+"POT-Creation-Date: 2026-02-16 04:43+0330\n"
+"PO-Revision-Date: 2026-02-16 04:54+0330\n"
+"Last-Translator: Amirhossein Hosseinpour <its@amirhp.com>\n"
+"Language-Team: Amirhossein Hosseinpour <its@amirhp.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: elementor-kit-backup.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: elementor-kit-backup.php:32
+msgid "Settings"
+msgstr "ویرایش تنظیمات"
+
+#: elementor-kit-backup.php:40 elementor-kit-backup.php:41
+msgid "Kit Backups"
+msgstr "بکاپ‌های کیت"
+
+#: elementor-kit-backup.php:114
+msgid "Elementor Kit Backup"
+msgstr "بکاپ‌های کیت المنتور"
+
+#: elementor-kit-backup.php:115
+msgid "By Amirhossein Hosseinpour"
+msgstr "توسط امیرحسین حسین پور"
+
+#: elementor-kit-backup.php:203
+msgid "Current Site Kit"
+msgstr "کیت فعال سایت"
+
+#: elementor-kit-backup.php:204
+msgid "Edit Settings"
+msgstr "ویرایش تنظیمات"
+
+#: elementor-kit-backup.php:205
+msgid "Manage Kits"
+msgstr "مدیریت کیت‌ها"
+
+#: elementor-kit-backup.php:206 elementor-kit-backup.php:210
+msgid "Create Backup"
+msgstr "ایجاد بکاپ جدید"
+
+#: elementor-kit-backup.php:207
+msgid "New Backup Created successfully."
+msgstr "بکاپ جدید با موفقیت ساخته شد."
+
+#: elementor-kit-backup.php:208
+msgid "Could not create backup."
+msgstr "خطا در ایجاد بکاپ رخ داد."
+
+#: elementor-kit-backup.php:209
+msgid "Backup Name..."
+msgstr "نام نسخه..."
+
+#: elementor-kit-backup.php:211
+msgid "Version History (Limit 20)"
+msgstr "تاریخچه نسخه‌ها (ظرفیت ۲۰ مورد)"
+
+#: elementor-kit-backup.php:212
+msgid "Name"
+msgstr "نام"
+
+#: elementor-kit-backup.php:213
+msgid "Author"
+msgstr "نویسنده"
+
+#: elementor-kit-backup.php:214
+msgid "Timestamp"
+msgstr "تاریخ و زمان"
+
+#: elementor-kit-backup.php:215
+msgid "Size"
+msgstr "حجم"
+
+#: elementor-kit-backup.php:216
+msgid "Restore"
+msgstr "بازگردانی"
+
+#: elementor-kit-backup.php:217
+msgid "Export"
+msgstr "دانلود"
+
+#: elementor-kit-backup.php:218
+msgid "Delete"
+msgstr "حذف"
+
+#: elementor-kit-backup.php:219
+msgid "Preview"
+msgstr "پیش‌نمایش"
+
+#: elementor-kit-backup.php:220
+msgid "Working..."
+msgstr "درحال بارگیری ..."
+
+#: elementor-kit-backup.php:221
+msgid "Are you sure? This will overwrite your active Global Styles."
+msgstr "آیا مطمئن هستید؟ استایل‌های فعلی سایت با این نسخه جایگزین خواهند شد."
+
+#: elementor-kit-backup.php:222
+msgid "Remove this version forever?"
+msgstr "این نسخه برای همیشه حذف شود؟"
+
+#: elementor-kit-backup.php:223
+msgid "Import JSON"
+msgstr "وارد کردن فایل"
+
+#: elementor-kit-backup.php:224
+msgid ""
+"File successfully imported. Note: You must click Restore to activate this kit."
+msgstr ""
+"فایل با موفقیت به تاریخچه اضافه شد. برای فعال‌سازی باید دکمه بازگردانی را بزنید."
+
+#: elementor-kit-backup.php:225
+msgid "Archive bundle successfully merged into history."
+msgstr "آرشیو بکاپ ها به تاریخچه اضافه/مرج شد."
+
+#: elementor-kit-backup.php:226
+msgid "Download Bundle"
+msgstr "دانلود کلی"
+
+#: elementor-kit-backup.php:227
+msgid "Snapshots global colors, fonts, and custom CSS settings."
+msgstr "ذخیره رنگ‌های سراسری، فونت‌ها و کدهای CSS سفارشی."
+
+#: elementor-kit-backup.php:228
+msgid "Success!"
+msgstr "عملیات موفق!"
+
+#: elementor-kit-backup.php:229
+msgid "Something went wrong."
+msgstr "متاسفانه خطایی رخ داد."
+
+#: elementor-kit-backup.php:230
+msgid "Integrity Check Failed: Invalid Elementor Kit Structure."
+msgstr "Integrity Check Failed: Invalid Elementor Kit Structure."
+
+#: elementor-kit-backup.php:231
+msgid "Global Colors"
+msgstr "رنگ‌های سراسری"
+
+#: elementor-kit-backup.php:232
+msgid "Global Fonts"
+msgstr "فونت‌های سراسری"
+
+#: elementor-kit-backup.php:233
+msgid "Custom CSS"
+msgstr "CSS سفارشی"
+
+#: elementor-kit-backup.php:234
+msgid "Not set in this backup."
+msgstr "در این بکاپ یافت نشد."
+
+#: elementor-kit-backup.php:235
+msgid "Cancel"
+msgstr "انصراف"
+
+#: elementor-kit-backup.php:236
+msgid "OK"
+msgstr "تایید"
+
+#: elementor-kit-backup.php:237
+msgid "Kit Components"
+msgstr "اطلاعات کیت"
+
+#: elementor-kit-backup.php:238
+msgid "Detected Items"
+msgstr "موارد یافت شده"
+
+#. Plugin Name of the plugin/theme
+msgid "Elementor Kit Backup Manager"
+msgstr "بکاپ کیت های المنتور"
+
+#. Description of the plugin/theme
+msgid ""
+"A professional version control tool for Elementor Global Styles. Capture, "
+"preview, and restore site-wide colors, typography, and custom CSS with ease."
+msgstr ""
+"یک ابزار حرفه‌ای کنترل نسخه برای استایل‌های سراسری المنتور. رنگ‌ها، تایپوگرافی و "
+"CSS سفارشی را در کل سایت به راحتی ثبت، پیش‌نمایش و بازیابی کنید."
+
+#. Author of the plugin/theme
+msgid "Amirhossein Hosseinpour"
+msgstr "امیرحسین حسین پور"
+
+#. Author URI of the plugin/theme
+msgid "https://amirhp.com"
+msgstr "https://amirhp.com"
