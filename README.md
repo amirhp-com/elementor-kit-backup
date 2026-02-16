@@ -1,6 +1,6 @@
 # Elementor Kit Backup Manager
 
-A lightweight, jQuery-based WordPress plugin to version-control Elementor Global Kit settings (`_elementor_page_settings`).
+A lightweight, jQuery-based WordPress plugin to version-control Elementor Global Kit settings.
 
 ![Version](https://img.shields.io/badge/version-1.9.2-blue.svg)
 ![Author](https://img.shields.io/badge/author-AmirhpCom-indigo.svg)
