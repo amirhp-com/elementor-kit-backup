@@ -23,7 +23,7 @@ defined("ABSPATH") or die("Elementor Kit Backup Manager :: Unauthorized Access!"
 class ElementorKitBackup {
 
     public function __construct() {
-        add_action( 'admin_menu', [ $this, 'add_menu' ] );
+        add_action( 'admin_menu', [ $this, 'add_menu' ], 500 );
         add_action( 'rest_api_init', [ $this, 'register_routes' ] );
         add_filter( 'plugin_action_links_' . plugin_basename( __FILE__ ), [ $this, 'add_action_links' ] );
     }
