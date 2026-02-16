@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+show_downloads: true
+latest_release_url: https://github.com/amirhp-com/elementor-kit-backup/releases/latest/download/elementor-kit-backup-v1.9.2.zip
+github:
+  zip_url: https://github.com/amirhp-com/elementor-kit-backup/releases/latest/download/elementor-kit-backup-v1.9.2.zip
+  tar_url: https://github.com/amirhp-com/elementor-kit-backup/releases/latest
